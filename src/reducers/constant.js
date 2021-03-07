@@ -1,0 +1,2 @@
+export const SAVE_ACCESS_TOKEN = 'SAVE_ACCESS_TOKEN'
+export const SAVE_LISTINGS = 'SAVE_LISTINGS'
